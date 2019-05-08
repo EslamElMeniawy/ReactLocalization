@@ -1,0 +1,13 @@
+{
+  "splash": {
+    "arabic": "Arabic",
+    "english": "English"
+  },
+  "main": {
+    "main_screen": "Main Screen",
+    "settings": "Settings"
+  },
+  "settings": {
+    "settings_screen": "Settings Screen"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "splash": {
+    "arabic": "العربية",
+    "english": "الإنجليزية"
+  },
+  "main": {
+    "main_screen": "الصفحة الرئيسية",
+    "settings": "الإعدادات"
+  },
+  "settings": {
+    "settings_screen": "صفحة الإعدادات"
+  }
+}
